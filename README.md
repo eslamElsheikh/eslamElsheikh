@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Eslam Elsheikh</h1>
 <h3 align="center">hello To My World</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/eslamElsheikh/eslamElsheikh/blob/main/sta.gif"> 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamElsheikh=Profile%20views&color=0e75b6&style=flat" /> </p>
+
+- 🌱 I’m currently learning **Dotnet and devops**
+
+- 💬 Ask me about **Dotnet and DevOps**
+
+- 📫 How to reach me **mmsabek99@gmail.com**
 
 <h3  align="left">Connect with me:</h3>
 <p align="left">
