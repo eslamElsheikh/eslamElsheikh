@@ -3,7 +3,8 @@
 <img align="right" alt="coding" width="400" src="https://github.com/eslamElsheikh/eslamElsheikh/blob/main/sta.gif"> 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eslamElsheikh=Profile%20views&color=0e75b6&style=flat" /> </p>
+![](https://komarev.com/ghpvc/?eslamElsheikh=your-github-eslamElsheikh&label=PROFILE+VIEWS)
+
 
 - 🌱 I’m currently learning **Dotnet and devops**
 
