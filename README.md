@@ -5,6 +5,11 @@
 
 ![](https://komarev.com/ghpvc/?username=eslamElsheikh&color=green)
 
+
+ 
+ 
+
+- 👋 I'm Eslam Mostafa Elsheikh Student at the Faculty of Computer & Information Sciences - Mansoura University Accused of artificial intelligence and machine learning and also interested in the field of robotics and smart machines 
 - 👀 I’m interested in AI,Machine learning 
 
 - 🌱 I’m currently learning Deep learning and advanced algorithms
