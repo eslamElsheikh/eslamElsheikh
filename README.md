@@ -5,11 +5,11 @@
 
 ![](https://komarev.com/ghpvc/?username=eslamElsheikh&color=green)
 
-- 🌱 I’m currently learning **Dotnet and devops**
+- 👀 I’m interested in AI,Machine learning 
 
-- 💬 Ask me about **Dotnet and DevOps**
+- 🌱 I’m currently learning Deep learning and advanced algorithms
+   in machine learning learning and NLP
 
-- 📫 How to reach me **mmsabek99@gmail.com**
 
 <h3  align="left">Connect with me:</h3>
 <p align="left">
