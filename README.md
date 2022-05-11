@@ -13,7 +13,7 @@
 - 👀 I’m interested in AI,Machine learning 
 
 - 🌱 I’m currently learning Deep learning and advanced algorithms
-   in machine learning learning and NLP
+   in machine learning and NLP
 
 
 <h3  align="left">Connect with me:</h3>
