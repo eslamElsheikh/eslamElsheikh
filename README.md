@@ -21,7 +21,7 @@
 <a href="https://twitter.com/eslamels9eikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eslamels9eikh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eslam-elsheikh-a33167220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eslam-elsheikh-a33167220" height="30" width="40" /></a>
 <a href="https://kaggle.com/eslamelsheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eslamelsheikh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/elsheikh2326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elsheikh2326" height="30" width="40" /></a>
+<a href="https://leetcode.com/EslamElsheikh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="elsheikh2326" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
